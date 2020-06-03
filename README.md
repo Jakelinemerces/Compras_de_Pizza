@@ -1,6 +1,6 @@
 # Compras_de_Pizza
 
-<h3>Projeto de E-commerce de compras de Pizza<h3>
+<h3>Projeto de E-commerce de compras de Pizzas<h3>
 
 <h4>O objetivo do projeto foi desenvolver um pequeno sistema de compras, com o objetivo
 de buscar eventos ocorridos em tela, para determinar ações.<h4>

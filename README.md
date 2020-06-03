@@ -17,11 +17,11 @@ de buscar eventos ocorridos em tela, para determinar ações.<h4>
 
 <img src="images/p_1.png"> 
 
-<h1>Screenshot Modal<h1>
+<h1>Screenshot  Modal<h1>
 
 <img src="images/p_2.png"> 
 
-<h1>Screenshot Carrinho<h1>
+<h1>Screenshot  Carrinho<h1>
 
 <img src="images/p_3.png"> 
 
